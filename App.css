@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.dash{
+   display: flex;
+  flex-direction: row;
+}
+
+.diff{
+ width: 400px;
+}
+
+.Navba{
+  background-color: white;
+  display: flex; 
+  flex-direction: row;
+}
+

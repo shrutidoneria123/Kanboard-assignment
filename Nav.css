@@ -1,0 +1,26 @@
+
+  
+  .dropdown {
+    margin-right: 20%;
+  }
+  
+  label {
+    color: rgba(0, 0, 0, 0.907);
+    margin-right: 5%;
+  }
+  
+  Option {
+    background-color: #ffffffdd;
+  }
+  nav {
+    background-color: #ffffffec;
+    padding: 2%;
+    display: flex;
+    
+  }
+  select {
+    padding: 6%;
+    border: 1% solid #dddddde3;
+    border-radius: 3px;
+    cursor: pointer;
+  }
